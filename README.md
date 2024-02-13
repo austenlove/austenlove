@@ -1,6 +1,6 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=austenlove&layout=donut&show_icons=true&hide_border=false&bg_color=fff&icon_color=58A6FF&text_color=000&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=austenlove&layout=donut&show_icons=true&hide_border=false&bg_color=fff&icon_color=58A6FF&text_color=000&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+<img src="https://github-readme-stats.vercel.app/api?username=austenlove&show_icons=true&hide_border=false&bg_color=fff&icon_color=58A6FF&text_color=000&title_color=58A6FF&count_private=true" width=48% />
 
-![austenlove's github stats](https://github-readme-stats.vercel.app/api?username=austenlove&show_icons=true)
 
 ⚡**Tech Stack**⚡<br>
 <img src="https://img.shields.io/badge/JAVA-1E8CBE?style=flat-square"/>
