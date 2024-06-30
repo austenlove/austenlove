@@ -4,7 +4,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=austenlove&show_icons=true&hide_border=false&bg_color=fff&icon_color=58A6FF&text_color=000&title_color=58A6FF&count_private=true" width=56% />
 
 </div>
-<br><br><br>
+<br><br>
 
 <div align="center">
   
